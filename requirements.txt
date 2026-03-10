@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+keras
+numpy
+pandas
+opencv-python-headless
+librosa
+joblib
+Pillow

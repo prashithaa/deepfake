@@ -1,0 +1,2 @@
+conda activate deepfake
+streamlit run app.py
